@@ -1,5 +1,5 @@
-# principle-of-optimality-example
-Bellman's Equation Principle of Optimality - Dynamic Programing Example 
+#Bellman's Equation Principle of Optimality - Dynamic Programing Example
+
 Black tiles are wall
 
 White tiles are road
