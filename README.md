@@ -4,7 +4,7 @@ Black tiles are wall
 
 White tiles are road
 
-Green Tile is goal
+Green tile is goal
 
 Brown tile is player
 
